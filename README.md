@@ -47,7 +47,10 @@ When you are finished, please upload your completed work to your Github and invi
 Please take some time to answer the following questions. Your answers should go directly in this `readme`.
 
 - Given more time, what would you suggest for improving the performance of this app?
+better loading screen, save the list of pokemon to the app state, so wouldn't need to keep loading
 
 - Is there anything you would consider doing if we were to go live with this app?
+Redesign, an option to remove the details card, then same as above
 
 - What was the most challenging aspect of this work for you (if at all)?
+drilling down into different layers of arrays programmatically for the evolutions
